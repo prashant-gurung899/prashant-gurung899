@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=js,ts,go,nodejs,express,nestjs,docker,kubernetes,graphql,prisma,mongodb,postgres,mysql,redis,jenkins,jest,kafka,nginx,git,gitlab,aws,firebase,postman,vscode,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,prisma,mongodb,postgres,mysql,git,gitlab,drone,postman,vscode,intellij,cucumber,gherkin,playwright,ubuntu,bash,docker,npm)](https://skillicons.dev)
 ---
